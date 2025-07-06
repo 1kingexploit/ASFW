@@ -179,4 +179,4 @@ async def ticket_inactivity_checker():
             ticket_last_activity.pop(channel_id, None)
 
 # === RUN ===
-bot.run("YOUR_BOT_TOKEN")
+bot.run("MTM5MDU5OTk2NjIzNzY1NTA5Mg.GWVIil.z5tmiiaVuomE75LQWQWhHlA6twcIzAWJRVJ1xI")
